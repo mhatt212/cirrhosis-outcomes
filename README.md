@@ -3,7 +3,7 @@ The purpose of this project is to compare unsupervised models to examine any ide
 for performance.
 
 ## Repo Structure
-- data/ -> Contains dataset file (Cirrhosis.csv)
+- Cirrhosis.csv ->  dataset file
 - Unsupervised Learning of Clinical Features for Cirrhosis Patients.ipynb -> Notebook
 
 ## Data Source
