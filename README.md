@@ -4,7 +4,7 @@ for performance.
 
 ## Repo Structure
 - Cirrhosis.csv ->  dataset file
-- Unsupervised Learning of Clinical Features for Cirrhosis_Patients.ipynb -> Notebook
+- Final_Unsupervised Learning of Clinical Features for Cirrhosis_Patients.ipynb -> Notebook
 
 ## Data Source
 - Mayo Clinic dataset from the UCI Machine Learning Repository 
