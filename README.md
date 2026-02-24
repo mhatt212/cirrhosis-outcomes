@@ -1,4 +1,4 @@
-# cirrhosis-outcomes
+# Unsupervised Learning of Clinical Features for Cirrhosis Patients
 The purpose of this project is to compare unsupervised models to examine any identified relationships between liver cirrhosis outcomes features. KMeans will be used as a baseline model to identify clusters and Agglomerative clustering will also be used as a model to compare to KMeans in terms
 for performance.
 
